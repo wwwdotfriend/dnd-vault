@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Welcome Home.md"
               }
             }
           }
@@ -160,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2527ddd06fb44c00",
+  "active": "dc148735b9965635",
   "lastOpenFiles": [
     "NPCs",
     "Locations",
     "Characters",
-    "Welcome.md"
+    "Welcome Home.md"
   ]
 }
